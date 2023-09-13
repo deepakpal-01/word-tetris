@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/word-tetris/static/css/main.712bc906.css",
+    "main.js": "/word-tetris/static/js/main.3de26d3f.js",
+    "static/media/userfacet.png": "/word-tetris/static/media/userfacet.496a38382228c2854bbb.png",
+    "index.html": "/word-tetris/index.html",
+    "main.712bc906.css.map": "/word-tetris/static/css/main.712bc906.css.map",
+    "main.3de26d3f.js.map": "/word-tetris/static/js/main.3de26d3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712bc906.css",
+    "static/js/main.3de26d3f.js"
+  ]
+}
